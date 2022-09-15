@@ -1,2 +1,2 @@
-# interview-note-
+# interview-note
 interview preparation
