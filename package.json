@@ -1,0 +1,22 @@
+{
+  "name": "interview-note",
+  "version": "1.0.0",
+  "description": "interview preparation",
+  "main": "index.js",
+  "scripts": {
+    "test-promise": "promises-aplus-tests ./Promise/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyz980908/interview-note.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cyz980908/interview-note/issues"
+  },
+  "homepage": "https://github.com/cyz980908/interview-note#readme",
+  "dependencies": {
+    "promises-aplus-tests": "^2.1.2"
+  }
+}
